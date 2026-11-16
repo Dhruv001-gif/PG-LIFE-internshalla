@@ -60,13 +60,6 @@ Follow these steps to set up and run the project on your local machine:
    * Click on the **Import** tab and upload the `.sql` database file included in this repository.
 6. **Launch the App:** Open your browser and visit `http://localhost/pglife/index.php`.
 
----
-
-## 👨‍💻 Author
-
-* **[Your Full Name]**
-* GitHub: [@Your-Username](https://github.com)
-* LinkedIn: [Your LinkedIn Profile](https://linkedin.com)
 
 ---
 
